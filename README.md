@@ -1,2 +1,2 @@
 # Web-Scraping
-I have scraped a dubai based website where I extracted hotel Names  and Prices 
+I have scraped a dubai based website where I extracted hotel Names  and Prices  Using Request and Python Library Beautitiful Soup 
